@@ -45,8 +45,3 @@
 
 - Downloads and demo: [arch-rst.com](https://arch-rst.com) · [Releases](https://github.com/RsT52/ARCH-RST/releases)
 - Support: support@arch-rst.com
-
----
-
-> Этот репозиторий содержит только сборки приложения (releases).
-> ARCH-RST — проприетарное ПО, © TEAM-RST. Все права защищены.
